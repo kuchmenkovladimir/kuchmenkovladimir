@@ -75,7 +75,7 @@
 # ✍️ Как со мной связаться
 
 - 📫 Telegram: [@kuchmenkova](https://t.me/kuchmenkova)
-- 📬 Email: kucmenkovladimir7@gmail.com
+- 📬 Email: kuchmenkovladimir10@gmail.com
 - 📄 [Моё резюме на hh.ru](https://hh.ru/resume) <!-- можно заменить ссылку на конкретную -->
 
 ---
