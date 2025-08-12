@@ -51,6 +51,29 @@
 
 
 ---
+# 🗄 SQL
+
+| Синтаксис и порядок выполнения | Операторы сравнения | Логические операторы | Скалярные функции | Агрегатные функции | Прочее |
+|--------------------------------|---------------------|----------------------|-------------------|--------------------|--------|
+| `SELECT` (`*`, `LIKE`, `TOP`)  | `=`                 | `AND`                | `GETDATE()`       | `COUNT()`          | `JOIN` |
+| `FROM`                         | `!=`                | `BETWEEN`            | `UPPER()`         | `SUM()`            | `AS`   |
+| `WHERE`                        | `<>`                | `IN`                 | `LOWER()`         | `MIN()`            | `UNION`|
+| `GROUP BY`                     | `>`                 | `LIKE`               | `DATEDIFF(часы, месяцы, годы)` |                    |        |
+| `ORDER BY` (`ASC`, `DESC`)     | `<`                 | `NOT`                 |                   |                    |        |
+| `UPDATE ... SET`               | `>=`                | `OR`                 |                   |                    |        |
+| `ALTER TABLE ... ADD`          | `<=`                | `IS NULL`            |                   |                    |        |
+| `INSERT INTO`                  | `!<`                | `IS NOT NULL`        |                   |                    |        |
+
+---
+## 📄 Примеры тестовой документации
+
+📂 **Тест-кейсы** — [скачать Excel-файл](https://drive.google.com/drive/folders/1vfkjLjxsyZoZBw91Bjw6FEgoKbJ2Noj1?usp=drive_link)
+
+🪲 **Баг-репорты** — [пример багов (Trello)](https://trello.com/b/5DlnIkOC/%D0%BC%D0%BE%D1%8F-%D0%B4%D0%BE%D1%81%D0%BA%D0%B0-trello)
+
+📘 **Чек-листы** — [пример чек-листа (Excel-файл)](https://drive.google.com/drive/folders/1b45XqOM0Fs_EES3mMBiX6EF5pLzUwlD-?usp=drive_link)
+
+📝 **Test Plan** — [пример test plan (Google Docs)](https://drive.google.com/drive/folders/1o0ZvCrLqRxy_db-bxz96plTcD8wc1SpU?usp=sharing)
 
 ## 📈 GitHub Статистика
 
