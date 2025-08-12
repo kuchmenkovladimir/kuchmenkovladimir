@@ -19,6 +19,7 @@
 <p align="center">
   <i>QA Engineer | Web & API Testing | Microservices | Learning Selenium</i>
 </p>
+
 ---
 
 ## 🧩 Обо мне
