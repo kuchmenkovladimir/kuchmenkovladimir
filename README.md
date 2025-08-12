@@ -76,16 +76,12 @@
 
 📝 **Test Plan** — [пример test plan (Google Docs)](https://drive.google.com/drive/folders/1o0ZvCrLqRxy_db-bxz96plTcD8wc1SpU?usp=sharing)
 
-## 📈 GitHub Статистика
+## 📈 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flatcross&show_icons=true&theme=tokyonight&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=flatcross&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flatcross&layout=compact&theme=tokyonight" />
-</p>
 
+![Profile views](https://komarev.com/ghpvc/?username=flatcross&color=blueviolet)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=flatcross&theme=tokyonight&column=7)
 ---
 ## 🧠 Последние проекты
 
